@@ -14,7 +14,7 @@
 5. Пакетные менеджеры (установка и удаление программ)
 6. history
 7. Флэтпак
-8. Чтение хелпа/мана/арчвики (-h, man, wiki.archlinux.org)
+8. Чтение хелпа/мана/арчвики (--help, man, wiki.archlinux.org)
 9. Работа с файлами(pwd, cd, rm, mv, mkdir, touch)
 10. Работа с текстовыми файлами (cat, grep, find, tail, head)
 11. Wget
