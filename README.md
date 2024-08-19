@@ -17,7 +17,7 @@
 8. Чтение хелпа/мана/арчвики (--help, man, wiki.archlinux.org)
 9. Работа с файлами(pwd, cd, rm, mv, mkdir, touch)
 10. Работа с текстовыми файлами (cat, grep, find, tail, head)
-11. Curl
+11. Wget, Curl
 12. Хоткеи терминала
 13. Перенаправление вывода (|, >>, >)
 14. Установка fish, zsh с ohmyzsh
