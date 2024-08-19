@@ -1,6 +1,6 @@
 # Общие рекомендации
 
-- Иметь ноутбук [ThinkPad](https://github.com/jtroo/kanata/blob/main/ThinkPad.md) или ПК
+- Иметь ноутбук [ThinkPad](https://github.com/probeldev/Junior_php_developer/blob/main/ThinkPad.md) или ПК
 - Слепая печать
 
 # Операционные системы
