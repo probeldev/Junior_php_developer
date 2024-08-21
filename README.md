@@ -20,7 +20,7 @@
 11. Wget, [Curl](https://www.youtube.com/watch?v=sTrQkxmiM_4)
 12. Хоткеи терминала
 13. Перенаправление вывода (|, >>, >)
-14. Установка fish, zsh с ohmyzsh
+14. Установка fish, [zsh с ohmyzsh](https://www.youtube.com/watch?v=NPgHB0J8OAo)
 15. Алиасы
 16. ssh, [scp](https://www.youtube.com/watch?v=mGOfQj_0-0I)
 17. Симлинки
