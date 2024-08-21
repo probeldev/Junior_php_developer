@@ -22,7 +22,7 @@
 13. Перенаправление вывода (|, >>, >)
 14. Установка fish, zsh с ohmyzsh
 15. Алиасы
-16. ssh, scp
+16. ssh, [scp](https://www.youtube.com/watch?v=mGOfQj_0-0I)
 17. Симлинки
 18. Копирование/вставка на ctrl/shift+insert
 19. Переназначение Ctrl на CapsLock
